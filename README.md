@@ -1,0 +1,2 @@
+# git_training_session
+git_training_session
